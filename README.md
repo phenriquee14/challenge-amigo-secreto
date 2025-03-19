@@ -11,7 +11,6 @@ Código desenvolvido para sortear um amigo secreto a partir de uma lista de amig
 ✅ Listar os amigos cadastrados
 ✅ Realizar o sorteio de um amigo secreto de forma aleatória
 ✅ Exibir o resultado do sorteio na tela
-✅ Efeitos especiais como **confetes** ao sortear
 
 ## Tecnologias Utilizadas
 
